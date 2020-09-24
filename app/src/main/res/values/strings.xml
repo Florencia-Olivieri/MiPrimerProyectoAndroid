@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="true" >MiPrimerProyectoAndroid</string>
+    <string name="title_name" translatable="true">Bienvenido</string>
+    <string name="button_text" translatable="true">Entrar</string>
+</resources>
